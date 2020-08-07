@@ -7,7 +7,7 @@ We describe all steps needed for a reproduction. However, due to the nature and 
 ## SmartSHARK Data
 
 The raw data used in this study was collected with the [SmartSHARK infrastructure](https://smartshark.github.io) over a multi-year time period. For every commit and every file static source code metrics and static analysis warnings were collected amongst other features.
-A dump of the resulting MongoDB can be found [here](HANDLE).
+A dump of the resulting MongoDB can be found [here](https://hdl.handle.net/21.11101/0000-0007-D827-A).
 The SmartSHARK documentation has the information needed to create this dataset, however a production deployment with connection to a HPC-Cluster is advisable due to the computation time required.
 
 
